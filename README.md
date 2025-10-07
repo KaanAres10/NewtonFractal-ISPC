@@ -9,7 +9,9 @@ An **Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compil
 ---
 
 ## Video
-https://github.com/user-attachments/assets/a1b278a9-33fe-41e6-93b7-41f71de6ba5b
+[https://github.com/user-attachments/assets/a1b278a9-33fe-41e6-93b7-41f71de6ba5b
+](https://github.com/user-attachments/assets/a0f5f333-6705-46b4-9b09-4dc3b9a8e2f4)
+
 ---
 
 ## Features
@@ -35,6 +37,8 @@ If you just want to try it out:
 - CMake 3.16+
 - C++17 compiler (Visual Studio 2019/2022 on Windows, GCC/Clang on Linux/macOS)
 - [ISPC](https://ispc.github.io/downloads.html)
+
+
 
 ### Build Steps
 ```bash
