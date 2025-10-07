@@ -1,6 +1,15 @@
 # Newton Fractal (ISPC)
 
-An **interactive Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compiler)](https://ispc.github.io/)
+An **Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compiler)](https://ispc.github.io/).
+
+<p align="center">
+  <img src="NewtonFractal.png" alt="Newton Fractal Screenshot"/>
+</p>
+
+---
+
+## Video
+https://github.com/user-attachments/assets/a1b278a9-33fe-41e6-93b7-41f71de6ba5b
 ---
 
 ## Features
