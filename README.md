@@ -9,8 +9,7 @@ An **Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compil
 ---
 
 ## Video
-[https://github.com/user-attachments/assets/a1b278a9-33fe-41e6-93b7-41f71de6ba5b
-](https://github.com/user-attachments/assets/a0f5f333-6705-46b4-9b09-4dc3b9a8e2f4)
+[https://github.com/user-attachments/assets/a1b278a9-33fe-41e6-93b7-41f71de6ba5b](https://github.com/user-attachments/assets/a0f5f333-6705-46b4-9b09-4dc3b9a8e2f4)
 
 ---
 
