@@ -17,6 +17,7 @@ An **Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compil
 ## Features
 - Fast fractal rendering using ISPC (SPMD-on-SIMD).
 - Adjustable polynomial degree *n* and iteration count.
+  
 ---
 
 ## Running the Prebuilt Binary
@@ -47,3 +48,4 @@ cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 
 # Build
 cmake --build build --config Release
+```
