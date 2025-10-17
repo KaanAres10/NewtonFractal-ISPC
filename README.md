@@ -7,9 +7,8 @@ An **Newton Fractal** accelerated with [ISPC (Intel Implicit SPMD Program Compil
 ---
 
 ## Video
-<video controls autoplay muted loop playsinline width="720" poster="NewtonFractal.png">
+<video poster="NewtonFractal.png">
   <source src="https://github.com/user-attachments/assets/a0f5f333-6705-46b4-9b09-4dc3b9a8e2f4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 ---
 
